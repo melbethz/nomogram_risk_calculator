@@ -1,0 +1,6 @@
+streamlit==1.27.0
+simpleNomo
+pandas
+matplotlib
+openpyxl
+altair==4.2.0
